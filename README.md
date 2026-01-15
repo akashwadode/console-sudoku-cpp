@@ -1,4 +1,9 @@
 # Console Sudoku Game (C++)
+![C++](https://img.shields.io/badge/Language-C%2B%2B-blue?logo=cplusplus)
+![STL](https://img.shields.io/badge/Library-STL-orange)
+![DSA](https://img.shields.io/badge/Algorithm-Backtracking-green)
+![OOP](https://img.shields.io/badge/Design-OOP-important)
+![Makefile](https://img.shields.io/badge/Build-Makefile-lightgrey)
 
 A fully interactive, console-based Sudoku game developed in C++ using
 object-oriented programming principles and a backtracking algorithm
