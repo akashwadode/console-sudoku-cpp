@@ -79,7 +79,7 @@ game logic, and puzzle generation components.
 MCA Student | C++ | Data Structures & Algorithms  
 
 GitHub: https://github.com/akashwadode  
-LinkedIn: https://linkedin.com/in/akashwadode
+LinkedIn: www.linkedin.com/in/akash-wadode
 
 ---
 
