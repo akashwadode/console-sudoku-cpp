@@ -5,13 +5,13 @@
 ![OOP](https://img.shields.io/badge/Design-OOP-important)
 ![Makefile](https://img.shields.io/badge/Build-Makefile-lightgrey)
 
-A fully interactive, console-based Sudoku game developed in C++ using
-object-oriented programming principles and a backtracking algorithm
-to generate valid Sudoku boards.
+A fully interactive, console-based Sudoku game developed in C++
+using object-oriented programming principles and a backtracking
+algorithm to generate valid Sudoku boards.
 
-The project focuses on clean software design, modular architecture,
-robust input validation, and real-world development practices
-commonly expected in Software Development Engineer (SDE) roles.
+This project emphasizes clean design, modular architecture,
+robust input validation, and structured problem-solving
+commonly applied in real-world software projects.
 
 ## 🚀 Features
 
@@ -32,7 +32,7 @@ commonly expected in Software Development Engineer (SDE) roles.
 ## 🏗️ Project Architecture
 
 The project is designed using a modular, object-oriented architecture
-to separate responsibilities and improve maintainability.
+to clearly separate responsibilities and improve maintainability.
 
 The overall design follows a clear separation of concerns:
 
