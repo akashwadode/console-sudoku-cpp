@@ -68,14 +68,6 @@ Key responsibilities:
 - Display initial menu
 - Start or exit the game based on user choice
 
-
-### 📊 High-Level Data Flow Diagram
-
-The diagram below illustrates the high-level data flow between the user,
-game logic, and puzzle generation components.
-
-![High-Level DFD](assets/dfd.png)
-
 ---
 
 ### 👨‍💻 Author
